@@ -7,7 +7,7 @@ windows supported.
 ## Install
 
 ```shell
-go install github.com/black-06/sysproxy-go/cmd@latest
+go install github.com/black-06/sysproxy-go/cmd/sysproxy@latest
 ```
 
 Or download from release page.
